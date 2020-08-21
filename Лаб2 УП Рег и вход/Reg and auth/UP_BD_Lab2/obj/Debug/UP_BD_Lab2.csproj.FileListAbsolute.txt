@@ -1,0 +1,20 @@
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\bin\Debug\UP_BD_Lab2.exe.config
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\bin\Debug\UP_BD_Lab2.exe
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\bin\Debug\UP_BD_Lab2.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.RegForm.resources
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.Properties.Resources.resources
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.csproj.GenerateResource.Cache
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.exe
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\UP_BD_Lab2\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.AuthForm.resources
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\bin\Debug\UP_BD_Lab2.exe.config
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.exe
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.pdb
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\bin\Debug\UP_BD_Lab2.exe
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\bin\Debug\UP_BD_Lab2.pdb
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.RegForm.resources
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.AuthForm.resources
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.Properties.Resources.resources
+C:\Users\Ilya\Documents\БД и СУБД\Лаб2 УП Рег и вход\Reg and auth\UP_BD_Lab2\obj\Debug\UP_BD_Lab2.csproj.GenerateResource.Cache

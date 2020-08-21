@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\bin\Debug\Lab_up_6.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\bin\Debug\Lab_up_6.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\bin\Debug\Lab_up_6.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.dgvFrom.resources
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\bin\Debug\Lab_up_6.exe.config
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\bin\Debug\Lab_up_6.exe
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\bin\Debug\Lab_up_6.pdb
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.csprojAssemblyReference.cache
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.dgvFrom.resources
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.Properties.Resources.resources
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.csproj.GenerateResource.cache
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.csproj.CoreCompileInputs.cache
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.exe
+D:\Илья\Documents\5-й триместр\БД и СУБД\УП по БД и СУБД лаб\ЛАБЫ\Лаб6 УП работа с данными в таблицном представлении\Lab_up_6\Lab_up_6\obj\Debug\Lab_up_6.pdb

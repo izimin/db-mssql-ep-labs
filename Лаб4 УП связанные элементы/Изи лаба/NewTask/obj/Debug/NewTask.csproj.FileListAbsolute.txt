@@ -1,0 +1,10 @@
+C:\Users\Илья\source\repos\NewTask\NewTask\bin\Debug\NewTask.exe.config
+C:\Users\Илья\source\repos\NewTask\NewTask\bin\Debug\NewTask.exe
+C:\Users\Илья\source\repos\NewTask\NewTask\bin\Debug\NewTask.pdb
+C:\Users\Илья\source\repos\NewTask\NewTask\obj\Debug\NewTask.csprojResolveAssemblyReference.cache
+C:\Users\Илья\source\repos\NewTask\NewTask\obj\Debug\NewTask.Form1.resources
+C:\Users\Илья\source\repos\NewTask\NewTask\obj\Debug\NewTask.Properties.Resources.resources
+C:\Users\Илья\source\repos\NewTask\NewTask\obj\Debug\NewTask.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\NewTask\NewTask\obj\Debug\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\NewTask\NewTask\obj\Debug\NewTask.exe
+C:\Users\Илья\source\repos\NewTask\NewTask\obj\Debug\NewTask.pdb

@@ -1,0 +1,18 @@
+F:\Учеба\БД и СУБД\auth\auth\bin\Debug\auth.exe.config
+F:\Учеба\БД и СУБД\auth\auth\bin\Debug\auth.exe
+F:\Учеба\БД и СУБД\auth\auth\bin\Debug\auth.pdb
+F:\Учеба\БД и СУБД\auth\auth\obj\Debug\auth.csprojResolveAssemblyReference.cache
+F:\Учеба\БД и СУБД\auth\auth\obj\Debug\auth.Auth.resources
+F:\Учеба\БД и СУБД\auth\auth\obj\Debug\auth.Properties.Resources.resources
+F:\Учеба\БД и СУБД\auth\auth\obj\Debug\auth.csproj.GenerateResource.Cache
+F:\Учеба\БД и СУБД\auth\auth\obj\Debug\auth.exe
+F:\Учеба\БД и СУБД\auth\auth\obj\Debug\auth.pdb
+E:\Лаба БД и СУБД\Лабы\auth\auth\bin\Debug\auth.exe.config
+E:\Лаба БД и СУБД\Лабы\auth\auth\obj\Debug\auth.exe
+E:\Лаба БД и СУБД\Лабы\auth\auth\obj\Debug\auth.pdb
+E:\Лаба БД и СУБД\Лабы\auth\auth\bin\Debug\auth.exe
+E:\Лаба БД и СУБД\Лабы\auth\auth\bin\Debug\auth.pdb
+E:\Лаба БД и СУБД\Лабы\auth\auth\obj\Debug\auth.csprojResolveAssemblyReference.cache
+E:\Лаба БД и СУБД\Лабы\auth\auth\obj\Debug\auth.Auth.resources
+E:\Лаба БД и СУБД\Лабы\auth\auth\obj\Debug\auth.Properties.Resources.resources
+E:\Лаба БД и СУБД\Лабы\auth\auth\obj\Debug\auth.csproj.GenerateResource.Cache

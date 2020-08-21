@@ -1,0 +1,9 @@
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.MainForm.resources
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.Properties.Resources.resources
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.GenerateResource.Cache
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+c:\users\ilya\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.pdb

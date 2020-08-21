@@ -1,0 +1,23 @@
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserUpdate.resources
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ilya\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserUpdate.resources
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ILYA\Desktop\Админка\WindowsFormsApplication1\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\ILYA\Documents\БД и СУБД\Лаб3 УП модификация\Админка\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ILYA\Documents\БД и СУБД\Лаб3 УП модификация\Админка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ILYA\Documents\БД и СУБД\Лаб3 УП модификация\Админка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

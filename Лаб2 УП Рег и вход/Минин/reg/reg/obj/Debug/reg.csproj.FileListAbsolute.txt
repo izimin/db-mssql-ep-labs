@@ -1,0 +1,21 @@
+F:\Учеба\БД и СУБД\reg\reg\bin\Debug\reg.exe.config
+F:\Учеба\БД и СУБД\reg\reg\bin\Debug\reg.exe
+F:\Учеба\БД и СУБД\reg\reg\bin\Debug\reg.pdb
+F:\Учеба\БД и СУБД\reg\reg\obj\Debug\reg.csprojResolveAssemblyReference.cache
+F:\Учеба\БД и СУБД\reg\reg\obj\Debug\reg.RegForm.resources
+F:\Учеба\БД и СУБД\reg\reg\obj\Debug\reg.Properties.Resources.resources
+F:\Учеба\БД и СУБД\reg\reg\obj\Debug\reg.csproj.GenerateResource.Cache
+F:\Учеба\БД и СУБД\reg\reg\obj\Debug\reg.exe
+F:\Учеба\БД и СУБД\reg\reg\obj\Debug\reg.pdb
+E:\Лаба БД и СУБД\Лабы\reg\reg\bin\Debug\reg.exe.config
+E:\Лаба БД и СУБД\Лабы\reg\reg\obj\Debug\reg.exe
+E:\Лаба БД и СУБД\Лабы\reg\reg\obj\Debug\reg.pdb
+E:\Лаба БД и СУБД\Лабы\reg\reg\bin\Debug\reg.exe
+E:\Лаба БД и СУБД\Лабы\reg\reg\bin\Debug\reg.pdb
+E:\Лаба БД и СУБД\Лабы\reg\reg\obj\Debug\reg.csprojResolveAssemblyReference.cache
+E:\Лаба БД и СУБД\Лабы\reg\reg\obj\Debug\reg.RegForm.resources
+E:\Лаба БД и СУБД\Лабы\reg\reg\obj\Debug\reg.Properties.Resources.resources
+E:\Лаба БД и СУБД\Лабы\reg\reg\obj\Debug\reg.csproj.GenerateResource.Cache
+C:\Users\Ilya\Desktop\Минин\reg\reg\bin\Debug\reg.exe.config
+C:\Users\Ilya\Desktop\Минин\reg\reg\obj\Debug\reg.exe
+C:\Users\Ilya\Desktop\Минин\reg\reg\obj\Debug\reg.pdb

@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\Nest\Nest\bin\Debug\Nest.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\bin\Debug\Nest.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\bin\Debug\Nest.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.MainForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Nest\Nest\obj\Debug\Nest.csproj.CopyComplete
